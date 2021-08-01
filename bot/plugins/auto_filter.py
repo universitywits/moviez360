@@ -81,7 +81,7 @@ async def auto_filter(bot, update):
             file_size = "" if file_size == ("[0 B]") else file_size
             
             # add emoji down below inside " " if you want..
-            button_text = f"📂 {file_size}{file_name}"
+            button_text = f"{file_size}{file_name}"
             
 
             if file_type == "video":
@@ -133,14 +133,6 @@ async def auto_filter(bot, update):
         return
     
     else:
-        Send_message = await bot.send_message(
-            chat_id=update.chat.id,
-            text=f"""<b>
-𝙃𝙞, {update.from_user.mention}! 𝙄 𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙁𝙞𝙣𝙙 𝙏𝙝𝙚 𝙈𝙤𝙫𝙞𝙚 𝙔𝙤𝙪'𝙧𝙚 𝙇𝙤𝙤𝙠𝙞𝙣𝙜 𝙁𝙤𝙧 😭😭
-★ iee movie ente database il added alla || bro chodicha moviede spelling correct ano ennu Google nokki check cheyiyukka .
-
-
-""",
     
         result = []
         # seperating total files into chunks to make as seperate pages
