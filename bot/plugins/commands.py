@@ -147,7 +147,8 @@ async def start(bot, update):
         InlineKeyboardButton('🌈Ɠɾσυρ🌈', url='https://t.me/movie360group'),
         InlineKeyboardButton('🌈Ƈԋαɳɳҽʅ🌈', url ='https://t.me/beast_tamil_movie_65')
     ],[
-        InlineKeyboardButton('✨ Ƈʜɳɳҽʅ ʅιsƚ✨', url='http://t.me/cw_access_bot')
+        InlineKeyboardButton('🌈360 հεʆԹ🌈', url='http://t.me/movies360help'),
+        InlineKeyboardButton('🌈ηεϖ ʍσѵίες🌈', url='http://t.me/joinchat/ME-pgJrySWg1ZDg1')
     ],[
 
     ]]
