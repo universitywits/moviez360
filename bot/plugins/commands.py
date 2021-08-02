@@ -53,7 +53,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = "<b>➠ɴᴇᴡ ᴍᴏᴠɪᴇs : @cw_main\n\n➠ᴏᴛᴛ ᴜᴘᴅᴀᴛᴇ  : @cw_links\n\n➠Gʀᴏᴜᴘ : @Cinema_world_officiel</b>",
+                caption = "<b>➠ᴏᴛᴛ ᴜᴘᴅᴀᴛᴇ : @Beast_tamil_movie_65\n\n➠Gʀᴏᴜᴘ : @Movie360group</b>",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
