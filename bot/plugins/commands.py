@@ -61,7 +61,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/beast_tamil_movie_65"
+                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/joinchat/ME-pgJrySWg1ZDg1"
                                 )
                         ]
                     ]
@@ -96,7 +96,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/beast_tamil_movie_65"
+                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/joinchat/ME-pgJrySWg1ZDg1"
                                 )
                         ]
                     ]
@@ -131,7 +131,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/beast_tamil_movie_65"
+                                    '💋𝗡𝗲𝘄 𝗠𝗼𝘃𝗶𝗲𝘀💋', url="https://t.me/joinchat/ME-pgJrySWg1ZDg1"
                                 )
                         ]
                     ]
